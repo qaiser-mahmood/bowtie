@@ -31,7 +31,3 @@ In the bowtieapp folder run the following command to run the React js server
 npm start
 ```
 After login (as a free user), create bowtie screen will open. Use create new bowtie button to create a bowtie chart. Using + buttons new components can be added. Indivdual components can be dragged. Double click on a component to edit it.
-
-## Contact Developer
-Name: Qaiser Mahmood
-Email: hqmahmood@gmail.com
